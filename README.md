@@ -1,16 +1,14 @@
-### Hi there 👋
+## Salve Devs !Esse aqui é meu GitHub pessoal !
 
-<!--
-**lucasbastosdelcico/lucasbastosdelcico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabalho com desenvolvimento web Full Stack 
+- 🌱 Estou estudando a fundo Angular e TypeScript
+- 📫 Contate-me por email: lukas-del@hotmail.com ou lukasdelcico@gmail.com
+- 😄 Pronouns: Ele/Dele
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbastosdelcico&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbastosdelcico&show_icons=true&layout=compact)
+![snake animation](https://github.com/lucasbastosdelcico/lucasbastosdelcico/blob/output/git-hub-contribution-grid-snake.svg)
