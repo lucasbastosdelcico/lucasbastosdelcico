@@ -7,12 +7,11 @@
 - 📫 Contate-me por email: lukas-del@hotmail.com ou lukasdelcico@gmail.com
 - 😄 Pronouns: Ele/Dele
 
-  <details open>
-    <summary><strong>GitHub Stats<strong></summary>
+
     <a href="https://github.com/wendelcutrim" target="_blank">
-    <img height="163em" src="https://github-readme-stats.vercel.app/api?username=lucasbastosdelcico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbastosdelcico&layout=compact&langs_count=10&theme=dracula&hide=CMake%2C%20Makefile"/>
-  </details>
+    <img height="163em" src="https://github-readme-stats.vercel.app/api?username=lucasbastosdelcico&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbastosdelcico&layout=compact&langs_count=10&theme=highcontrast&hide=CMake%2C%20Makefile"/>
+
 </div>
 <div style="display: inline_block">
  <br>
