@@ -2,10 +2,11 @@
 
 
 
-- 🔭 Trabalho com desenvolvimento web Full Stack 
-- 🌱 Estou estudando a fundo Angular e TypeScript
+- 🔭 Trabalho com desenvolvimento web Full Stack.
+- 🤔 Trabalho com ASP.NET MVC utilizando C# e o paradigma Orientado a Objetos.
+- 🌱 Estou estudando a fundo Angular e TypeScript.
 - 📫 Contate-me por email: lukas-del@hotmail.com ou lukasdelcico@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: Ele/Dele.
 
 
     <a href="https://github.com/wendelcutrim" target="_blank">
@@ -16,6 +17,7 @@
 <div style="display: inline_block">
  <br>
   <img align="center" alt="Angular" height="30" width="40" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JQuery" height="30" width="40" title="JQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center"alt="Javascript"height="30"width="40"title="Javascript"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
