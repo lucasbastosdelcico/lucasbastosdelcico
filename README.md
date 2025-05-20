@@ -3,9 +3,9 @@
 
 
 - 🔭 Trabalho com desenvolvimento web Full Stack.
-- 🤔 Trabalho com ASP.NET MVC utilizando C# e o paradigma Orientado a Objetos.
+- 🤔 Trabalho com .Net e Angular
 - 🌱 Estou estudando a fundo Angular e TypeScript.
-- 📫 Contate-me por email: lukas-del@hotmail.com ou lukasdelcico@gmail.com
+- 📫 Contate-me por email: lucasbastosdelcico@outlook.com
 - 😄 Pronouns: Ele/Dele.
 
 
